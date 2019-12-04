@@ -6,5 +6,8 @@ module.exports={
     },
     mongodb:{
         dbURI:'mongodb+srv://mirsazzathossain:sazzatmir@cluster0-wdd8v.mongodb.net/OAth?retryWrites=true&w=majority'
+    },
+    session: {
+        cookieKey: 'peraiasimama'
     }
 };
